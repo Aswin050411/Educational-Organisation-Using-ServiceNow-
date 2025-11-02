@@ -1,4 +1,11 @@
 # 📘 Educational Organisation using ServiceNow
+## 📄 Project Information
+
+| Field | Details |
+|------|---------|
+| **Date** | 02/11/2025 |
+| **Team ID** | 5DF336787D57F7892E44BCCAE0B1CD55 |
+| **Project Name** | Educational organization using ServiceNow |
 
 ## 📌 Project Overview
 This project is a custom **Educational Management System** built on the **ServiceNow** platform.  
